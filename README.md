@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushh2304" alt="piyushh2304" /></a> </p>
 
+
 - 🔭 I’m currently working on **AccessEdu**
 
 - 🌱 I’m currently learning **LLM's and GenAI**
@@ -12,6 +13,9 @@
 - 💬 Ask me about **MERN, Data Analytics etc.**
 
 - 📫 How to reach me **piyushrajput1404@gmail.com**
+
+ <div align="center"><img height="200" src="https://i.imgflip.com/65efzo.gif"  /></div>
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
