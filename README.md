@@ -32,5 +32,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushh2304&show_icons=true&locale=en" alt="piyushh2304" /></p>
 
-<img src="https://raw.githubusercontent.com/piyushh2304/piyushh2304/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/piyushh2304/piyushh2304/output/snake.svg)
+
 
