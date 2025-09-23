@@ -34,5 +34,3 @@
 
 <img src="https://raw.githubusercontent.com/piyushh2304/piyushh2304/output/snake.svg" alt="Snake animation" />
 
-###
-
