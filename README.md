@@ -17,7 +17,9 @@
 
 - 📫 How to reach me **piyushrajput1404@gmail.com**
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
+<img align="right" src="https://raw.githubusercontent.com/piyushh2304/piyushh2304/main/assets/kyubey.gif" height="40" />
+
 
 
 ### Blogs posts
