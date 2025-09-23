@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **piyushrajput1404@gmail.com**
 
- <div align="center"><img height="200" src="https://i.imgflip.com/65efzo.gif"  /></div>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 
 ### Blogs posts
